@@ -101,6 +101,26 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="arrowdown"
+                path="/Users/Ankush/Documents/workspace/Android Studio Applications/RubiksCubeAndroid2D/RubiksCubeAndroid2D/RubiksCubeAndroid2D/src/main/res/drawable-hdpi/arrowdown.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="arrowleft"
+                path="/Users/Ankush/Documents/workspace/Android Studio Applications/RubiksCubeAndroid2D/RubiksCubeAndroid2D/RubiksCubeAndroid2D/src/main/res/drawable-hdpi/arrowleft.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="arrowup"
+                path="/Users/Ankush/Documents/workspace/Android Studio Applications/RubiksCubeAndroid2D/RubiksCubeAndroid2D/RubiksCubeAndroid2D/src/main/res/drawable-hdpi/arrowup.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="arrowright"
+                path="/Users/Ankush/Documents/workspace/Android Studio Applications/RubiksCubeAndroid2D/RubiksCubeAndroid2D/RubiksCubeAndroid2D/src/main/res/drawable-hdpi/arrowright.png"
+                qualifiers="hdpi"
+                type="drawable" />
         </source>
         <source path="/Users/Ankush/Documents/workspace/Android Studio Applications/RubiksCubeAndroid2D/RubiksCubeAndroid2D/RubiksCubeAndroid2D/build/res/rs/debug" />
     </dataSet>
