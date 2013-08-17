@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/Ankush/Documents/workspace/Android Studio Applications/RubiksCubeAndroid2D/RubiksCubeAndroid2D/RubiksCubeAndroid2D/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Ankush/Documents/workspace/Android Studio Applications/RubiksCubeAndroid2D/RubiksCubeAndroid2D/RubiksCubeAndroid2D/src/debug/assets" />
+    </dataSet>
+
+</merger>
